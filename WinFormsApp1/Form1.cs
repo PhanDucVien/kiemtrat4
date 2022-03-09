@@ -16,5 +16,15 @@ namespace WinFormsApp1
         {
 
         }
+
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            string user = textboxusername.Text;
+            string pass = textboxmatkhau.Text;
+            if (user == "admin" && pass == "admin")
+            {
+                MessageBox.Show("dang nhap thanh cong");
+            }
+        }
     }
 }
