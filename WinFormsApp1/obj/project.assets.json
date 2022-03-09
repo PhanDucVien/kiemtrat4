@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\henga\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henga\\Desktop\\A\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "D:\\New folder\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\henga\\Desktop\\A\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\henga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henga\\Desktop\\A\\kiemtrat4\\WinFormsApp1\\obj\\",
+      "projectPath": "D:\\New folder\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\New folder\\kiemtrat4\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\henga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
