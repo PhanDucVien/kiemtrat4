@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\MSI PC\\Desktop\\sangthu4\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\MSI PC\\Desktop\\sangthu4\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\MSI PC\\Desktop\\sangthu4\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\New folder\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\kiemtrat4\\WinFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\MSI PC\\Desktop\\sangthu4\\kiemtrat4\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\MSI PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MSI PC\\Desktop\\sangthu4\\kiemtrat4\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSI PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
